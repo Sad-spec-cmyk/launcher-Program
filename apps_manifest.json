@@ -1,15 +1,5 @@
 [
   {
-    "id": "calculator_app",
-    "folder": "apps/calculator_app",
-    "version": "1.0.0"
-  },
-  {
-    "id": "notes_app",
-    "folder": "apps/notes_app",
-    "version": "1.2.0"
-  },
-  {
     "id": "image_tool",
     "folder": "apps/image_tool",
     "version": "1.0.0"
